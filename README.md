@@ -29,9 +29,11 @@ Este proyecto demuestra todos los operadores aritméticos en C# con ejemplos pr�
    git clone https://github.com/Augustoromera/operadores-aritmeticos-csharp.git
    ```
 
-2. Abre el proyecto en Visual Studio o VS Code
-
-3. Compila y ejecuta el programa
+2. Abre el proyecto en VS Code
+3. Copia el codigo
+4. Crea un nuevo proyecto con visual code, (aplicacion de consola basico)
+5. Reemplaza el codigo de hello world por el codigo de Program.cs
+6. Compila y ejecuta el programa
 
 ## 📝 Ejemplo de Salida
 
